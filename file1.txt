@@ -1,2 +1,4 @@
-This GIT class
+Welcome to the GIT class
+
+We're discussing the concept of branching
 
