@@ -1,3 +1,4 @@
-Welcome to the GIT Class
+Welcome to class today
 
-this is GIT
+
+today we're discussing GIT
